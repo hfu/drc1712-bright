@@ -19,9 +19,6 @@
     {
       "id": "landcover-glacier",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landcover",
       "filter": [
@@ -52,9 +49,6 @@
     {
       "id": "landuse-residential",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landuse",
       "filter": [
@@ -81,9 +75,6 @@
     {
       "id": "landuse-commercial",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landuse",
       "filter": [
@@ -106,9 +97,6 @@
     {
       "id": "landuse-industrial",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landuse",
       "filter": [
@@ -131,9 +119,6 @@
     {
       "id": "park",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "park",
       "filter": [
@@ -161,9 +146,6 @@
     {
       "id": "park-outline",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "park",
       "filter": [
@@ -195,9 +177,6 @@
     {
       "id": "landuse-cemetery",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landuse",
       "filter": [
@@ -212,9 +191,6 @@
     {
       "id": "landuse-hospital",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landuse",
       "filter": [
@@ -229,9 +205,6 @@
     {
       "id": "landuse-school",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landuse",
       "filter": [
@@ -246,9 +219,6 @@
     {
       "id": "landuse-railway",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landuse",
       "filter": [
@@ -263,9 +233,6 @@
     {
       "id": "landcover-wood",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landcover",
       "filter": [
@@ -295,9 +262,6 @@
     {
       "id": "landcover-grass",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "landcover",
       "filter": [
@@ -313,9 +277,6 @@
     {
       "id": "landcover-grass-park",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849388993.3071"
-      },
       "source": "openmaptiles",
       "source-layer": "park",
       "filter": [
@@ -331,9 +292,6 @@
     {
       "id": "waterway-other",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849382550.77"
-      },
       "source": "openmaptiles",
       "source-layer": "waterway",
       "filter": [
@@ -366,9 +324,6 @@
     {
       "id": "waterway-stream-canal",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849382550.77"
-      },
       "source": "openmaptiles",
       "source-layer": "waterway",
       "filter": [
@@ -400,9 +355,6 @@
     {
       "id": "waterway-river",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849382550.77"
-      },
       "source": "openmaptiles",
       "source-layer": "waterway",
       "filter": [
@@ -433,9 +385,6 @@
     {
       "id": "water-offset",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849382550.77"
-      },
       "source": "openmaptiles",
       "source-layer": "water",
       "maxzoom": 8,
@@ -474,9 +423,6 @@
     {
       "id": "water",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849382550.77"
-      },
       "source": "openmaptiles",
       "source-layer": "water",
       "layout": {
@@ -489,9 +435,6 @@
     {
       "id": "water-pattern",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849382550.77"
-      },
       "source": "openmaptiles",
       "source-layer": "water",
       "layout": {
@@ -508,9 +451,6 @@
     {
       "id": "landcover-ice-shelf",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849382550.77"
-      },
       "source": "openmaptiles",
       "source-layer": "landcover",
       "filter": [
@@ -541,9 +481,6 @@
     {
       "id": "building",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849364238.8171"
-      },
       "source": "openmaptiles",
       "source-layer": "building",
       "paint": {
@@ -566,9 +503,6 @@
     {
       "id": "building-top",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849364238.8171"
-      },
       "source": "openmaptiles",
       "source-layer": "building",
       "layout": {
@@ -614,9 +548,6 @@
     {
       "id": "tunnel-service-track-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -664,9 +595,6 @@
     {
       "id": "tunnel-minor-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -725,9 +653,6 @@
     {
       "id": "tunnel-secondary-tertiary-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -768,9 +693,6 @@
     {
       "id": "tunnel-trunk-primary-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -818,9 +740,6 @@
     {
       "id": "tunnel-motorway-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -872,9 +791,6 @@
     {
       "id": "tunnel-path",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -922,9 +838,6 @@
     {
       "id": "tunnel-service-track",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -968,9 +881,6 @@
     {
       "id": "tunnel-minor",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -1014,9 +924,6 @@
     {
       "id": "tunnel-secondary-tertiary",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -1060,9 +967,6 @@
     {
       "id": "tunnel-trunk-primary",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -1106,9 +1010,6 @@
     {
       "id": "tunnel-motorway",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -1152,9 +1053,6 @@
     {
       "id": "tunnel-railway",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849354174.1904"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -1224,9 +1122,6 @@
     {
       "id": "aeroway-taxiway-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "aeroway",
       "minzoom": 12,
@@ -1264,9 +1159,6 @@
     {
       "id": "aeroway-runway-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "aeroway",
       "minzoom": 12,
@@ -1304,9 +1196,6 @@
     {
       "id": "aeroway-area",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "aeroway",
       "minzoom": 4,
@@ -1347,9 +1236,6 @@
     {
       "id": "aeroway-taxiway",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "aeroway",
       "minzoom": 4,
@@ -1404,9 +1290,6 @@
     {
       "id": "aeroway-runway",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "aeroway",
       "minzoom": 4,
@@ -1461,9 +1344,6 @@
     {
       "id": "highway-area",
       "type": "fill",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -1484,9 +1364,6 @@
     {
       "id": "highway-motorway-link-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "minzoom": 12,
@@ -1537,9 +1414,6 @@
     {
       "id": "highway-link-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "minzoom": 13,
@@ -1594,9 +1468,6 @@
     {
       "id": "highway-minor-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -1666,9 +1537,6 @@
     {
       "id": "highway-secondary-tertiary-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -1712,9 +1580,6 @@
     {
       "id": "highway-primary-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "minzoom": 5,
@@ -1777,9 +1642,6 @@
     {
       "id": "highway-trunk-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "minzoom": 5,
@@ -1842,9 +1704,6 @@
     {
       "id": "highway-motorway-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "minzoom": 4,
@@ -1911,9 +1770,6 @@
     {
       "id": "highway-path",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -1962,9 +1818,6 @@
     {
       "id": "highway-motorway-link",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "minzoom": 12,
@@ -2014,9 +1867,6 @@
     {
       "id": "highway-link",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "minzoom": 13,
@@ -2070,9 +1920,6 @@
     {
       "id": "highway-minor",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2127,9 +1974,6 @@
     {
       "id": "highway-secondary-tertiary",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2176,9 +2020,6 @@
     {
       "id": "highway-primary",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2232,9 +2073,6 @@
     {
       "id": "highway-trunk",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2288,9 +2126,6 @@
     {
       "id": "highway-motorway",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "minzoom": 5,
@@ -2345,9 +2180,6 @@
     {
       "id": "railway-transit",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2394,9 +2226,6 @@
     {
       "id": "railway-transit-hatching",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2451,9 +2280,6 @@
     {
       "id": "railway-service",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2496,9 +2322,6 @@
     {
       "id": "railway-service-hatching",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2552,9 +2375,6 @@
     {
       "id": "railway",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2607,9 +2427,6 @@
     {
       "id": "railway-hatching",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849345966.4436"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2666,9 +2483,6 @@
     {
       "id": "bridge-motorway-link-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2716,9 +2530,6 @@
     {
       "id": "bridge-link-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2769,9 +2580,6 @@
     {
       "id": "bridge-secondary-tertiary-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2812,9 +2620,6 @@
     {
       "id": "bridge-trunk-primary-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2862,9 +2667,6 @@
     {
       "id": "bridge-motorway-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2911,9 +2713,6 @@
     {
       "id": "bridge-path-casing",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -2957,9 +2756,6 @@
     {
       "id": "bridge-path",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -3007,9 +2803,6 @@
     {
       "id": "bridge-motorway-link",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -3056,9 +2849,6 @@
     {
       "id": "bridge-link",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -3108,9 +2898,6 @@
     {
       "id": "bridge-secondary-tertiary",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -3154,9 +2941,6 @@
     {
       "id": "bridge-trunk-primary",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -3200,9 +2984,6 @@
     {
       "id": "bridge-motorway",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -3245,9 +3026,6 @@
     {
       "id": "bridge-railway",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -3287,9 +3065,6 @@
     {
       "id": "bridge-railway-hatching",
       "type": "line",
-      "metadata": {
-        "mapbox:group": "1444849334699.1902"
-      },
       "source": "openmaptiles",
       "source-layer": "transportation",
       "filter": [
@@ -3554,66 +3329,6 @@
       }
     },
     {
-      "id": "boundary-water",
-      "type": "line",
-      "source": "openmaptiles",
-      "source-layer": "boundary",
-      "filter": [
-        "all",
-        [
-          "in",
-          "admin_level",
-          2,
-          4
-        ],
-        [
-          "==",
-          "maritime",
-          1
-        ]
-      ],
-      "layout": {
-        "line-cap": "round",
-        "line-join": "round"
-      },
-      "paint": {
-        "line-color": "rgba(154, 189, 214, 1)",
-        "line-width": {
-          "base": 1,
-          "stops": [
-            [
-              0,
-              0.6
-            ],
-            [
-              4,
-              1.4
-            ],
-            [
-              5,
-              2
-            ],
-            [
-              12,
-              8
-            ]
-          ]
-        },
-        "line-opacity": {
-          "stops": [
-            [
-              6,
-              0.6
-            ],
-            [
-              10,
-              1
-            ]
-          ]
-        }
-      }
-    },
-    {
       "id": "waterway-name",
       "type": "symbol",
       "source": "openmaptiles",
@@ -3636,7 +3351,7 @@
           "Noto Sans Italic"
         ],
         "text-size": 14,
-        "text-field": "{name:latin} {name:nonlatin}",
+        "text-field": "{name}",
         "text-max-width": 5,
         "text-rotation-alignment": "map",
         "symbol-placement": "line",
@@ -3664,7 +3379,7 @@
           "Noto Sans Italic"
         ],
         "text-size": 14,
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-max-width": 5,
         "text-rotation-alignment": "map",
         "symbol-placement": "line",
@@ -3700,7 +3415,7 @@
           "Noto Sans Italic"
         ],
         "text-size": 14,
-        "text-field": "{name:latin}",
+        "text-field": "{name}",
         "text-max-width": 5,
         "text-rotation-alignment": "map",
         "symbol-placement": "point",
@@ -3747,7 +3462,7 @@
             ]
           ]
         },
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-max-width": 5,
         "text-rotation-alignment": "map",
         "symbol-placement": "point",
@@ -3787,7 +3502,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "{class}_11",
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -3833,7 +3548,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "{class}_11",
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -3878,7 +3593,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "{class}_11",
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -3929,7 +3644,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "{class}_11",
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -3978,7 +3693,7 @@
         "text-font": [
           "Noto Sans Regular"
         ],
-        "text-field": "{name:latin} {name:nonlatin}",
+        "text-field": "{name}",
         "symbol-placement": "line",
         "text-rotation-alignment": "map"
       },
@@ -4026,7 +3741,7 @@
         "text-font": [
           "Noto Sans Regular"
         ],
-        "text-field": "{name:latin} {name:nonlatin}",
+        "text-field": "{name}",
         "symbol-placement": "line",
         "text-rotation-alignment": "map"
       },
@@ -4067,7 +3782,7 @@
         "text-font": [
           "Noto Sans Regular"
         ],
-        "text-field": "{name:latin} {name:nonlatin}",
+        "text-field": "{name}",
         "symbol-placement": "line",
         "text-rotation-alignment": "map"
       },
@@ -4261,7 +3976,7 @@
         ],
         "text-anchor": "top",
         "icon-image": "airport_11",
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-offset": [
           0,
           0.6
@@ -4282,9 +3997,6 @@
     {
       "id": "place-other",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "filter": [
@@ -4314,7 +4026,7 @@
         "text-font": [
           "Noto Sans Bold"
         ],
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-transform": "uppercase",
         "text-max-width": 9,
         "visibility": "visible"
@@ -4328,9 +4040,6 @@
     {
       "id": "place-village",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "filter": [
@@ -4355,7 +4064,7 @@
             ]
           ]
         },
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-max-width": 8,
         "visibility": "visible"
       },
@@ -4368,9 +4077,6 @@
     {
       "id": "place-town",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "filter": [
@@ -4395,7 +4101,7 @@
             ]
           ]
         },
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-max-width": 8,
         "visibility": "visible"
       },
@@ -4408,9 +4114,6 @@
     {
       "id": "place-city",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "filter": [
@@ -4443,7 +4146,7 @@
             ]
           ]
         },
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-max-width": 8,
         "visibility": "visible"
       },
@@ -4456,9 +4159,6 @@
     {
       "id": "place-city-capital",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "filter": [
@@ -4491,7 +4191,7 @@
             ]
           ]
         },
-        "text-field": "{name:latin}\n{name:nonlatin}",
+        "text-field": "{name}",
         "text-max-width": 8,
         "icon-image": "star_11",
         "text-offset": [
@@ -4511,9 +4211,6 @@
     {
       "id": "place-country-other",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "filter": [
@@ -4564,9 +4261,6 @@
     {
       "id": "place-country-3",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "filter": [
@@ -4617,9 +4311,6 @@
     {
       "id": "place-country-2",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "filter": [
@@ -4670,9 +4361,6 @@
     {
       "id": "place-country-1",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "filter": [
@@ -4723,9 +4411,6 @@
     {
       "id": "place-continent",
       "type": "symbol",
-      "metadata": {
-        "mapbox:group": "1444849242106.713"
-      },
       "source": "openmaptiles",
       "source-layer": "place",
       "maxzoom": 1,
@@ -4738,7 +4423,7 @@
         "text-font": [
           "Noto Sans Bold"
         ],
-        "text-field": "{name:latin}",
+        "text-field": "{name}",
         "text-size": 14,
         "text-max-width": 6.25,
         "text-transform": "uppercase",
@@ -4751,6 +4436,5 @@
         "text-halo-color": "rgba(255,255,255,0.8)"
       }
     }
-  ],
-  "id": "ciw6czz2n00242kmg6hw20box"
+  ]
 }
