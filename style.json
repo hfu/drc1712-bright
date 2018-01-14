@@ -4234,7 +4234,7 @@
         "text-font": [
           "Noto Sans Italic"
         ],
-        "text-field": "{name}",
+        "text-field": "{name:en}",
         "text-size": {
           "stops": [
             [
@@ -4284,7 +4284,7 @@
         "text-font": [
           "Noto Sans Bold"
         ],
-        "text-field": "{name}",
+        "text-field": "{name:en}",
         "text-size": {
           "stops": [
             [
@@ -4334,7 +4334,7 @@
         "text-font": [
           "Noto Sans Bold"
         ],
-        "text-field": "{name}",
+        "text-field": "{name:en}",
         "text-size": {
           "stops": [
             [
@@ -4384,7 +4384,7 @@
         "text-font": [
           "Noto Sans Bold"
         ],
-        "text-field": "{name}",
+        "text-field": "{name:en}",
         "text-size": {
           "stops": [
             [
